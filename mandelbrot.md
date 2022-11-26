@@ -16,7 +16,7 @@ The mandelbrot set is the set of complex numbers $z$ for which the series $z_{n+
 ## Software parameters:
 <pre>
 Mandelbrot.delta = 0.0000001D;
-Mandelbrot.MAXEMPTYIT= 100;
+Mandelbrot.MAXEMPTYIT = 100;
 Mandelbrot.dX = 3.05;
 Mandelbrot.X0=2.025;
 Mandelbrot.dY = 2.7;

@@ -6,10 +6,10 @@ Archive of plots of Mandelbrot Set and Julia Sets generated with [Mandelbrot](ht
 The mandelbrot set is the set of complex numbers $z$ for which the series $z_{n+1} = z_{n}^{2} + c$ does not diverge to infinity. When $c$ is held constant at a specific value, the set corresponds to a Julia set.
 
 
-## [Mandelbrot set plots](mandelbrot.md)
+## [Mandelbrot set plots ad previews](mandelbrot.md)
 
 
-## [Julia sets plots](julia.md)
+## [Julia sets plots and previews](julia.md)
 
 
 ## File naming format
