@@ -117,6 +117,22 @@ thik = 0.00025
 ##### Archive folder
 [julia-hi2-res](julia-hi2-res)
 
+### Mandelbrot set - details
+Various resolutions of the Mandelbrot set details.
+
+##### Software parameters
+Common parameters:
+<pre>
+Mandelbrot.delta = 0.000001D
+Mandelbrot.MAXEMPTYIT= 1
+</pre>
+Specific param for each resolution:
+<pre>
+thik = 0.000004, 0.000003, 0.000002, 0.000001
+</pre>
+##### Archive folder
+[mdetails](mdetails)
+
 
 
 ## File naming format
