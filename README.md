@@ -43,6 +43,22 @@ does not diverge to infinity. When $c$ is held constant at a specific value, the
 
 ## Archive Contents
 
+### Mandelbrot set
+Various resolutions of the Mandelbrot set.
+
+##### Software parameters
+Common parameters:
+<pre>
+Mandelbrot.delta = 0.0000001D
+Mandelbrot.MAXEMPTYIT= 100
+</pre>
+Specific param for each resolution:
+<pre>
+thik = 0.002, 0.001, 0.0005, 0.0002, 0.00011
+</pre>
+##### Archive folder
+[mandelbrot](mandelbrot)
+
 ### julia set (low resolution)
 Low resolution images (about 1900x1500 pixels) of the 12 Julia sets identified by specific values of complex constant *c*.
 Elaboration time was about 5 minutes.
@@ -89,6 +105,7 @@ thik = 0.0005
 
 ### julia set (very hight resolution)
 Very-hight resolution images (about 15000x12000 pixels) of the 12 Julia sets identified by specific values of complex constant *c*.
+Elaboration time was about 3h20m.
 
 ##### Software parameters
 <pre>
